@@ -35,7 +35,7 @@ Note that congenial currently depends on the Regenerator runtime. It is recommen
 Example
 ---------
 
-# congenial
+# fant
 
 congenial watches the store for changes to searchable collections and automatically builds a search index. To do this, it simply needs to be told which resources to watch and which fields to index.
 
